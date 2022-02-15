@@ -3,6 +3,8 @@
 ## dependencies
 wine, wine-mono
 
+# for now it dont work
+
 ## run
 ```
 ./install.sh
