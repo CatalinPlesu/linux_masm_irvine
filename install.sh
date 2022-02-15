@@ -7,5 +7,6 @@ mv ./irvine ~/.local/share/wineprefixes/masm/drive_c/Irvine
 
 wine_masm regedit /C wine_masm_irvine.reg
 
-cp build_masm ~/.local/bin/
+echo "If you want this script in your path provide sudo access"
+sudo cp build_masm /usr/local/bin/
 
