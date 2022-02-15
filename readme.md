@@ -1,9 +1,13 @@
 # installs masm on linux ( probably on mac too ) 
 
+## dependencies
+wine, wine-mono
+
 ## run
 ```
 ./install.sh
 ```
+press **install** (earth image) when installing masm 
 
 **build_masm** will be added to ~/.local/bin
 if it isn't in your PATH add it
